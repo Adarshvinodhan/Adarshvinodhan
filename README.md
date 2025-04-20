@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh V</h1>
 <h3 align="center">FullStack Developer from India</h3>
 
-- 🌱 I’m currently learning **Typescript,Nextjs**
+- 🌱 I’m currently building **avm-erp**
 
 - 👨‍💻 All of my projects are available at [https://adarsh-cv.netlify.app](https://adarsh-cv.netlify.app)
 
